@@ -1,4 +1,4 @@
-module github.com/vrherog/VirtualHereLibrary
+module github.com/vrherog/vhlib
 
 go 1.17
 

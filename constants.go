@@ -1,4 +1,4 @@
-package VirtualHereLibrary
+package vhlib
 
 const (
 	DefaultTimeout = 1000

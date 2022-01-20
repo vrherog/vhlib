@@ -1,4 +1,4 @@
-package VirtualHereLibrary
+package vhlib
 
 import (
 	"bufio"
